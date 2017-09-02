@@ -1,6 +1,6 @@
 # papyrus_classifier_and_summarizer
 
-To import the below:
+To import the below: \n
 pip install nltk
 pip install scikit-learn
 pip install numpy
