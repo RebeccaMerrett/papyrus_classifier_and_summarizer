@@ -125,7 +125,9 @@ def function_2(text):
 	return "\n\n".join(summary)
 
 #Text taken from the user's uploaded PDF or URL, cleaned and formatted.
-title_main = ''
+title_main = '''
+
+'''
 
 #Text taken from the user's uploaded PDF or URL, cleaned and formatted.
 #This only includes the text from the body (footnotes, contents, etc can be automatically filtered out).
